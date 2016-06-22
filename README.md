@@ -1,3 +1,3 @@
 # hello-world
-Hi Human!
+Hi Humans!
 I'm here,I love you!
